@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.wrapper {
+	position:absolute;
+	left:50%;
+	top:10%;
+	margin-left: -15%;
+	background-color: #4CAF50;
+	color: #ffff;
+	padding: 30px;
+}
+input {
+	border: none;
+	padding: 10px;
+	color: grey;
+}
+input.button {
+	border: none;
+	padding: 15px 20px;
+	background-color:#ffff;
+	color: grey;
+	font-size: 1em;
+}
